@@ -1,0 +1,11 @@
+Icons in .svg format
+
+https://simpleicons.org/
+
+Atom
+code igniter
+Electron
+ghostery
+greensock
+hotjar
+jordan

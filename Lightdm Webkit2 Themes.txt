@@ -1,0 +1,6 @@
+Lightdm Webkit2 Themes:
+
+https://github.com/gitneeraj/lightdm-webkit2-theme-reactive
+
+https://github.com/pedropenna/musfealle
+

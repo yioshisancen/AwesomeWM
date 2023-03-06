@@ -1,0 +1,21 @@
+Icons for Powerlevel10k
+
+https://www.nerdfonts.com/cheat-sheet
+nf-custom-electron
+nf-dev-atom
+nf-dev-codeigniter
+nf-fa-male
+nf-fa-registered
+nf-fa-resistance
+nf-fa-user_secret
+nf-fae-tacos
+nf-mdi-cancel
+nf-mdi-ghost
+nf-mdi-guy_fawkes_mask
+nf-mdi-incognito
+nf-mdi-read
+nf-mdi-skull
+nf-oct-flame
+nf-oct-globe
+nf-seti-platformio
+nf-weather-alien
